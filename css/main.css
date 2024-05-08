@@ -197,12 +197,6 @@ p,ul{
     width: 80px;
 }
 
-/*.menu_key{ 使っていないCSS。どこを見て作ったのか、覚えてない。
-    height: 100px;
-    background: url("C:/Users/logis/dic_cafe/image/sample_key.jpg") no-repeat center;
-    background-size: cover;
-}*/
-
 .wrapper{
     display: flex;
 }
